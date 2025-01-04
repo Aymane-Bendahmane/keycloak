@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+
+# React
+node_modules/
+build/
+*.log
+.env
+.env.*.local
+
+# Common
+.DS_Store
+.idea/
+.vscode/
+Thumbs.db
+*.suo
+*.sw?
