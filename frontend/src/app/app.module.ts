@@ -16,7 +16,7 @@ import {HttpClientModule} from "@angular/common/http";
     HttpClientModule,
     OAuthModule.forRoot({
       resourceServer: {
-        allowedUrls: ['http://localhost:8080/api'],
+        allowedUrls: ['http://localhost:8080/home'],
         sendAccessToken: true
       }
     }),
