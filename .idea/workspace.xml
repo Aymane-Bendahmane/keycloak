@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e56dce0b-107a-4614-af84-787f29c06e6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pkce/src/main/java/com/app/pkce/config/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkce/src/main/java/com/app/pkce/controller/HomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkce/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/pkce/build.gradle" afterDir="false" />
+    <list default="true" id="e56dce0b-107a-4614-af84-787f29c06e6e" name="Changes" comment="adding documentation , but the backend can't properly validate the token">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkce/HELP.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pkce/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pkce/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkce/src/main/resources/frontend/src/app/app.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/pkce/src/main/resources/frontend/src/app/app.service.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,21 +44,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/stock_update/keycloak",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/stock_update/keycloak&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -79,10 +78,24 @@
       <workItem from="1735860443635" duration="26000" />
       <workItem from="1735860527340" duration="1842000" />
       <workItem from="1735952647843" duration="1095000" />
+      <workItem from="1736040197199" duration="360000" />
     </task>
+    <task id="LOCAL-00001" summary="adding documentation , but the backend can't properly validate the token">
+      <option name="closed" value="true" />
+      <created>1736040558660</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736040558660</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding documentation , but the backend can't properly validate the token" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding documentation , but the backend can't properly validate the token" />
   </component>
 </project>
