@@ -96,11 +96,11 @@ Below is a simplified diagram of the Authorization Code flow:
 ## Examples implemented in this repo
 ## Pkce Authentication process
 - getting the token using pkce grant type
-![img.png](img.png)
+![img.png](authorization-code-with-pkce.png)
 - verifying the token in the backend
-![img_1.png](img_1.png)
+![img_1.png](authorization-code-flow.png)
 ## Implementing SSO with github and keycloak
-![alt text](image.png)
+![alt text](sso-flow.png)
 ---
 
 ## Further Reading

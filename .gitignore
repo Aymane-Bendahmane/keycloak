@@ -1,5 +1,6 @@
 # Gradle
 .gradle/
+gradle/
 build/
 *.class
 *.jar
@@ -9,7 +10,6 @@ build/
 
 # React
 node_modules/
-build/
 *.log
 .env
 .env.*.local
